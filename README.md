@@ -132,6 +132,10 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Data Structures](https://img.shields.io/badge/Data%20Structures-DSA-yellow?style=for-the-badge) ![Algorithms](https://img.shields.io/badge/Algorithms-Problem%20Solving-brightgreen?style=for-the-badge)
 
 ---
+<img src="https://raw.githubusercontent.com/Rifat-Hosen/Rifat-Hosen/output/snake.svg" alt="Snake animation" />
+
+
+###
 
 # 📊 GitHub Stats
 
@@ -141,22 +145,3 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifat-Hosen&layout=compact&theme=dark)
 
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Rifat-Hosen&theme=radical)
-
----
-
-## 🔝 Top Contributed Repos
-
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Rifat-Hosen&limit=5&theme=dark)
-
----
-
-<div align="center">
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=Rifat-Hosen&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
