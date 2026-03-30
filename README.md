@@ -135,23 +135,23 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rifat-Hosen&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rifat-Hosen&theme=dark&count_private=true&include_all_commits=true)
 
-![Contribution Streak](https://nirzak-streak-stats.vercel.app/?user=Rifat-Hosen&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=Rifat-Hosen&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifat-Hosen&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifat-Hosen&layout=compact&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rifat-Hosen&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Rifat-Hosen&theme=radical)
 
 ---
 
 ## 🔝 Top Contributed Repos
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=Rifat-Hosen&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Rifat-Hosen&limit=5&theme=dark)
 
 ---
 
